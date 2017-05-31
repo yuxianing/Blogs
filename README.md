@@ -1,3 +1,3 @@
 # Blogs
 
-maybe i will use it to recode notes
+maybe i will use it to recode study notes
