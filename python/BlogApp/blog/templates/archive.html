@@ -1,0 +1,11 @@
+<form action="/blog/create/" method ="post">{% csrf_token %}
+	<table> {{form}} </table><br>
+	<input type="submit">
+</form>
+
+{% for article in articles%}
+<h2> {{article.title}}</h2>
+<p>{{article.timestamp}}</p>
+<p>{{article.body}}</p>
+<hr>
+{% endfor %}
