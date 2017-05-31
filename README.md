@@ -1,3 +1,3 @@
 # Blogs
-
-maybe i will use it to recode study notes
+the applation is used it to recode my study notes
+welcome to visit my website:www.yuxianing.cn
